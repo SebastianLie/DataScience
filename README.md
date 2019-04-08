@@ -1,2 +1,2 @@
 # DataScience
-Place for my data science projects: Regression, Visualisations, etc.
+Place for my data science visualisations, etc.
